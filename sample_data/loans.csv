@@ -1,0 +1,4 @@
+lender,principal,emi,interest_rate,start_date,end_date
+ABC Bank,900000.0,43358.06,14.34,2025-10-21,2027-10-21
+XYZ Finance,900000.0,41954.09,11.02,2025-02-02,2027-02-02
+Local NBFC,1200000.0,58378.29,15.34,2025-06-19,2027-06-19

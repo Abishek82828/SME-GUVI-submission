@@ -1,0 +1,5 @@
+{
+  "name": "SME Financial Health Assessment",
+  "description": "A streamlined interface for uploading financial documents and viewing health assessment reports.",
+  "requestFramePermissions": []
+}

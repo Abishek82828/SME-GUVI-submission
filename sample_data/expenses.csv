@@ -1,0 +1,569 @@
+date,vendor,category,amount
+2025-02-07,SupplierOne,Electricity Utilities,8849.3
+2025-02-11,PowerGrid,Rent,15015.16
+2025-02-10,SupplierOne,Salary Payroll,12029.34
+2025-02-20,CloudTools,Raw Materials,11177.21
+2025-02-04,SupplierTwo,Courier Delivery,7343.37
+2025-02-27,PowerGrid,Salary Payroll,28218.46
+2025-02-12,SupplierTwo,Maintenance,20512.97
+2025-02-18,SupplierTwo,Rent,14889.36
+2025-02-04,StaffPayroll,Electricity Utilities,13082.33
+2025-02-07,CourierPlus,Marketing Ads,3805.87
+2025-02-04,RentCo,SaaS Subscription,10911.33
+2025-02-15,StaffPayroll,SaaS Subscription,16921.51
+2025-02-15,CloudTools,Raw Materials,8783.75
+2025-02-01,PowerGrid,Office Supplies,21319.95
+2025-02-15,MarketMedia,Marketing Ads,17923.91
+2025-02-09,StaffPayroll,Fuel Transport,15907.32
+2025-02-13,PowerGrid,Electricity Utilities,15377.67
+2025-02-22,StaffPayroll,Fuel Transport,4859.19
+2025-02-23,SupplierOne,Office Supplies,19774.15
+2025-02-12,StaffPayroll,Fuel Transport,10939.52
+2025-02-21,CourierPlus,Salary Payroll,11114.71
+2025-02-08,CloudTools,Salary Payroll,18821.36
+2025-02-25,RentCo,Fuel Transport,14437.55
+2025-02-08,CourierPlus,Rent,12480.62
+2025-02-02,FuelHub,Rent,11140.55
+2025-02-03,FuelHub,Rent,22397.64
+2025-02-19,RentCo,Fuel Transport,11095.31
+2025-02-02,StaffPayroll,Maintenance,10987.76
+2025-02-24,SupplierOne,Courier Delivery,20212.4
+2025-02-12,CourierPlus,Fuel Transport,12809.25
+2025-02-21,MarketMedia,Fuel Transport,11965.18
+2025-02-16,MarketMedia,Raw Materials,300.0
+2025-02-14,RentCo,Courier Delivery,9416.85
+2025-02-19,SupplierTwo,Raw Materials,15116.47
+2025-02-04,RentCo,Fuel Transport,18178.43
+2025-02-02,PowerGrid,Maintenance,17862.19
+2025-02-12,RentCo,Maintenance,9314.15
+2025-03-14,SupplierOne,Salary Payroll,16413.32
+2025-03-30,CourierPlus,Maintenance,4597.96
+2025-03-06,CloudTools,Courier Delivery,8739.8
+2025-03-08,PowerGrid,Raw Materials,6047.01
+2025-03-18,SupplierOne,Fuel Transport,17873.74
+2025-03-15,CourierPlus,Rent,4766.16
+2025-03-02,CourierPlus,Fuel Transport,9351.56
+2025-03-09,StaffPayroll,Courier Delivery,2762.89
+2025-03-24,CloudTools,Fuel Transport,10530.9
+2025-03-24,RentCo,Electricity Utilities,4005.34
+2025-03-17,CloudTools,Courier Delivery,6316.32
+2025-03-27,FuelHub,Rent,3757.05
+2025-03-01,SupplierTwo,SaaS Subscription,11493.6
+2025-03-25,SupplierOne,Salary Payroll,16674.62
+2025-03-28,CourierPlus,Maintenance,8730.71
+2025-03-15,FuelHub,Rent,18578.85
+2025-03-07,RentCo,Courier Delivery,5755.22
+2025-03-01,SupplierTwo,Electricity Utilities,3996.23
+2025-03-04,FuelHub,Salary Payroll,11737.3
+2025-03-03,CloudTools,Salary Payroll,6875.99
+2025-03-27,FuelHub,Fuel Transport,5964.09
+2025-03-17,FuelHub,Fuel Transport,13809.55
+2025-03-09,RentCo,Courier Delivery,9044.73
+2025-03-02,MarketMedia,Office Supplies,3749.85
+2025-03-04,RentCo,Rent,300.0
+2025-03-13,RentCo,Salary Payroll,9673.34
+2025-03-27,SupplierOne,Salary Payroll,11696.23
+2025-03-05,FuelHub,Office Supplies,12198.02
+2025-03-02,StaffPayroll,Rent,7309.36
+2025-03-03,SupplierTwo,SaaS Subscription,7429.71
+2025-03-25,SupplierTwo,Maintenance,4611.03
+2025-03-17,StaffPayroll,Courier Delivery,10254.96
+2025-03-31,FuelHub,Maintenance,6350.46
+2025-04-04,RentCo,Electricity Utilities,11177.61
+2025-04-24,PowerGrid,Maintenance,11567.67
+2025-04-18,FuelHub,Marketing Ads,9676.02
+2025-04-25,FuelHub,Marketing Ads,1227.68
+2025-04-28,FuelHub,Raw Materials,1963.1
+2025-04-09,SupplierTwo,Courier Delivery,4221.29
+2025-04-18,CloudTools,Electricity Utilities,4433.1
+2025-04-12,SupplierTwo,Fuel Transport,6467.33
+2025-04-11,PowerGrid,SaaS Subscription,5153.26
+2025-04-16,SupplierTwo,Raw Materials,8938.29
+2025-04-12,CloudTools,Raw Materials,6434.69
+2025-04-16,CourierPlus,Electricity Utilities,8542.33
+2025-04-25,CloudTools,Salary Payroll,8339.37
+2025-04-30,CloudTools,Rent,5471.01
+2025-04-29,SupplierTwo,Salary Payroll,4734.57
+2025-04-30,CloudTools,Rent,11379.56
+2025-04-02,CloudTools,Office Supplies,5935.74
+2025-04-11,RentCo,Raw Materials,616.38
+2025-04-26,CourierPlus,Electricity Utilities,6760.55
+2025-04-18,SupplierTwo,Raw Materials,6512.65
+2025-04-10,FuelHub,Office Supplies,9022.46
+2025-04-02,MarketMedia,Electricity Utilities,5412.87
+2025-04-05,CourierPlus,Salary Payroll,7344.51
+2025-04-08,PowerGrid,Office Supplies,4622.57
+2025-04-29,RentCo,Maintenance,3722.42
+2025-04-29,CloudTools,Maintenance,300.0
+2025-04-12,SupplierOne,Fuel Transport,8814.13
+2025-04-08,CloudTools,SaaS Subscription,3630.41
+2025-04-30,FuelHub,Office Supplies,300.0
+2025-04-04,RentCo,Courier Delivery,8964.33
+2025-04-04,SupplierOne,Electricity Utilities,7777.84
+2025-04-22,MarketMedia,Fuel Transport,5980.42
+2025-04-27,CourierPlus,Office Supplies,2183.24
+2025-04-14,CloudTools,Marketing Ads,4920.7
+2025-04-05,FuelHub,Salary Payroll,1952.73
+2025-04-05,CloudTools,Rent,7449.04
+2025-04-14,RentCo,Office Supplies,6214.78
+2025-04-18,CourierPlus,Salary Payroll,3398.37
+2025-04-11,SupplierTwo,SaaS Subscription,7381.4
+2025-04-07,FuelHub,Maintenance,7969.16
+2025-04-30,CloudTools,SaaS Subscription,14609.77
+2025-04-27,FuelHub,Marketing Ads,7848.45
+2025-04-13,PowerGrid,Fuel Transport,5021.51
+2025-04-12,CourierPlus,Office Supplies,7549.46
+2025-04-29,MarketMedia,Electricity Utilities,9294.14
+2025-04-16,FuelHub,Office Supplies,8246.73
+2025-05-29,StaffPayroll,Salary Payroll,32253.85
+2025-05-02,RentCo,Office Supplies,14398.64
+2025-05-03,SupplierOne,Office Supplies,15352.17
+2025-05-18,CourierPlus,Raw Materials,24480.16
+2025-05-06,StaffPayroll,Office Supplies,14371.54
+2025-05-10,StaffPayroll,SaaS Subscription,8542.69
+2025-05-07,MarketMedia,Rent,24817.73
+2025-05-27,SupplierOne,SaaS Subscription,23800.08
+2025-05-20,FuelHub,Maintenance,17143.53
+2025-05-30,SupplierOne,Office Supplies,21670.36
+2025-05-13,SupplierTwo,SaaS Subscription,28827.02
+2025-05-28,MarketMedia,Courier Delivery,300.0
+2025-05-15,SupplierOne,Courier Delivery,3666.9
+2025-05-12,FuelHub,Salary Payroll,27073.19
+2025-05-23,CloudTools,Rent,10189.74
+2025-05-25,SupplierTwo,Salary Payroll,28856.53
+2025-05-03,StaffPayroll,Rent,2737.79
+2025-05-05,SupplierTwo,Electricity Utilities,22033.66
+2025-05-12,CloudTools,SaaS Subscription,6336.64
+2025-05-30,StaffPayroll,Rent,14806.01
+2025-05-12,SupplierTwo,Salary Payroll,12804.04
+2025-05-02,CloudTools,Salary Payroll,19329.09
+2025-05-09,CloudTools,SaaS Subscription,21335.94
+2025-05-20,SupplierOne,SaaS Subscription,34724.67
+2025-05-21,CloudTools,Maintenance,28002.55
+2025-05-30,PowerGrid,Salary Payroll,34721.09
+2025-05-13,CloudTools,Courier Delivery,17551.62
+2025-06-04,FuelHub,SaaS Subscription,10869.76
+2025-06-06,CloudTools,Salary Payroll,3932.17
+2025-06-05,SupplierOne,Courier Delivery,8630.27
+2025-06-07,RentCo,Office Supplies,5853.63
+2025-06-23,SupplierOne,Salary Payroll,1760.2
+2025-06-04,CourierPlus,SaaS Subscription,6416.04
+2025-06-29,StaffPayroll,Courier Delivery,2924.59
+2025-06-30,CourierPlus,SaaS Subscription,4672.59
+2025-06-30,MarketMedia,Rent,10982.31
+2025-06-18,CloudTools,Raw Materials,7536.46
+2025-06-18,PowerGrid,Office Supplies,5746.72
+2025-06-15,CourierPlus,Electricity Utilities,5689.79
+2025-06-25,MarketMedia,Maintenance,5480.7
+2025-06-20,FuelHub,Office Supplies,6323.76
+2025-06-06,MarketMedia,Maintenance,12022.1
+2025-06-19,CloudTools,Courier Delivery,9555.14
+2025-06-28,MarketMedia,Office Supplies,8045.44
+2025-06-12,SupplierOne,Marketing Ads,6787.14
+2025-06-02,CourierPlus,Raw Materials,2385.15
+2025-06-14,MarketMedia,SaaS Subscription,6994.82
+2025-06-12,FuelHub,Salary Payroll,300.0
+2025-06-19,SupplierTwo,Electricity Utilities,6178.0
+2025-06-17,PowerGrid,Salary Payroll,5494.4
+2025-06-29,RentCo,Electricity Utilities,8016.26
+2025-06-10,RentCo,SaaS Subscription,7656.17
+2025-06-27,MarketMedia,Salary Payroll,4238.03
+2025-06-23,SupplierOne,Fuel Transport,7651.44
+2025-06-15,StaffPayroll,Fuel Transport,4817.58
+2025-06-12,MarketMedia,Salary Payroll,3451.41
+2025-06-17,PowerGrid,Salary Payroll,3354.56
+2025-06-08,CloudTools,Raw Materials,8802.22
+2025-06-23,CourierPlus,Electricity Utilities,4967.57
+2025-06-09,FuelHub,Electricity Utilities,7657.21
+2025-06-11,CourierPlus,Electricity Utilities,8162.47
+2025-06-22,SupplierTwo,Electricity Utilities,12658.66
+2025-06-23,StaffPayroll,Salary Payroll,6870.11
+2025-06-01,MarketMedia,Courier Delivery,674.24
+2025-06-10,StaffPayroll,Office Supplies,7297.23
+2025-06-02,FuelHub,Office Supplies,5720.9
+2025-06-15,SupplierOne,Rent,2862.5
+2025-06-15,FuelHub,Marketing Ads,6101.25
+2025-06-27,SupplierOne,SaaS Subscription,9902.88
+2025-06-23,MarketMedia,Rent,300.0
+2025-06-01,CourierPlus,Courier Delivery,8332.39
+2025-06-14,MarketMedia,SaaS Subscription,3172.05
+2025-06-17,PowerGrid,Office Supplies,3788.22
+2025-06-06,PowerGrid,Raw Materials,3875.71
+2025-06-26,SupplierOne,Marketing Ads,5883.71
+2025-06-05,RentCo,Fuel Transport,6351.52
+2025-06-13,CloudTools,Maintenance,5956.43
+2025-06-13,SupplierTwo,Fuel Transport,8319.88
+2025-06-17,RentCo,Electricity Utilities,1965.41
+2025-06-23,CloudTools,Rent,5570.02
+2025-06-29,SupplierOne,Rent,4781.35
+2025-06-21,MarketMedia,Salary Payroll,9093.64
+2025-06-06,StaffPayroll,Office Supplies,5490.31
+2025-06-24,StaffPayroll,Salary Payroll,3226.03
+2025-06-21,StaffPayroll,Courier Delivery,4762.02
+2025-06-11,CloudTools,Office Supplies,8855.43
+2025-06-08,FuelHub,Office Supplies,6741.76
+2025-06-24,CloudTools,Raw Materials,6627.56
+2025-06-24,SupplierOne,Raw Materials,2879.37
+2025-06-21,CloudTools,Rent,300.0
+2025-06-18,PowerGrid,Maintenance,10235.09
+2025-06-27,MarketMedia,SaaS Subscription,4557.26
+2025-06-25,FuelHub,Salary Payroll,1803.85
+2025-06-05,StaffPayroll,Fuel Transport,3711.52
+2025-07-14,MarketMedia,Courier Delivery,9251.69
+2025-07-27,MarketMedia,Raw Materials,11743.97
+2025-07-06,CloudTools,Courier Delivery,11114.5
+2025-07-13,StaffPayroll,Rent,5214.97
+2025-07-03,SupplierTwo,Raw Materials,15748.23
+2025-07-04,RentCo,Salary Payroll,8626.06
+2025-07-13,StaffPayroll,Courier Delivery,10918.76
+2025-07-09,SupplierTwo,Electricity Utilities,8303.37
+2025-07-20,CloudTools,Electricity Utilities,9844.53
+2025-07-09,RentCo,Electricity Utilities,6974.27
+2025-07-16,SupplierTwo,Courier Delivery,2010.94
+2025-07-07,FuelHub,Marketing Ads,6603.38
+2025-07-03,SupplierOne,Salary Payroll,13477.81
+2025-07-20,RentCo,Salary Payroll,10905.92
+2025-07-20,StaffPayroll,Maintenance,17220.24
+2025-07-27,PowerGrid,SaaS Subscription,14905.0
+2025-07-17,PowerGrid,Fuel Transport,10695.98
+2025-07-20,RentCo,Marketing Ads,11315.34
+2025-07-05,PowerGrid,Office Supplies,14435.17
+2025-07-23,SupplierOne,Rent,9116.44
+2025-07-31,PowerGrid,Raw Materials,300.0
+2025-07-26,RentCo,Courier Delivery,3297.63
+2025-07-10,MarketMedia,SaaS Subscription,15319.15
+2025-07-16,FuelHub,Maintenance,6901.71
+2025-07-30,SupplierOne,Office Supplies,12459.06
+2025-07-08,MarketMedia,Electricity Utilities,8968.91
+2025-07-25,FuelHub,Salary Payroll,2088.49
+2025-07-25,MarketMedia,Rent,10617.77
+2025-07-05,FuelHub,Office Supplies,9573.16
+2025-07-11,CourierPlus,Marketing Ads,15417.84
+2025-07-07,CloudTools,Rent,10045.87
+2025-07-13,StaffPayroll,Rent,6881.19
+2025-07-19,CloudTools,Fuel Transport,10647.13
+2025-08-08,RentCo,Raw Materials,6207.0
+2025-08-11,CloudTools,Electricity Utilities,2892.45
+2025-08-30,CourierPlus,Rent,2313.67
+2025-08-07,CloudTools,Fuel Transport,6670.75
+2025-08-15,CourierPlus,Rent,3255.31
+2025-08-11,PowerGrid,Raw Materials,4022.63
+2025-08-13,SupplierOne,Office Supplies,1255.98
+2025-08-02,SupplierOne,SaaS Subscription,3267.76
+2025-08-10,CourierPlus,Electricity Utilities,3395.56
+2025-08-17,StaffPayroll,Raw Materials,936.65
+2025-08-13,FuelHub,Rent,3342.14
+2025-08-30,CloudTools,Salary Payroll,300.0
+2025-08-29,PowerGrid,SaaS Subscription,3419.4
+2025-08-15,CloudTools,Rent,6277.35
+2025-08-01,SupplierOne,Maintenance,300.0
+2025-08-26,CloudTools,Office Supplies,4077.2
+2025-08-09,RentCo,Office Supplies,3167.61
+2025-08-28,StaffPayroll,Maintenance,5468.05
+2025-08-10,RentCo,Electricity Utilities,1593.99
+2025-08-03,PowerGrid,Fuel Transport,8013.4
+2025-08-03,PowerGrid,Rent,2477.75
+2025-08-05,CloudTools,Raw Materials,4437.63
+2025-08-02,FuelHub,Marketing Ads,4236.37
+2025-08-28,CourierPlus,Courier Delivery,1508.36
+2025-08-13,MarketMedia,Courier Delivery,1650.73
+2025-08-11,RentCo,Rent,2711.24
+2025-08-25,FuelHub,Electricity Utilities,7152.06
+2025-08-05,SupplierOne,Raw Materials,1760.01
+2025-08-30,CloudTools,Marketing Ads,3180.53
+2025-08-27,MarketMedia,Maintenance,3345.34
+2025-08-24,CourierPlus,Electricity Utilities,3099.44
+2025-08-22,StaffPayroll,Salary Payroll,3202.49
+2025-08-08,FuelHub,Electricity Utilities,7601.63
+2025-08-18,CloudTools,Courier Delivery,2303.41
+2025-08-29,StaffPayroll,Salary Payroll,2792.72
+2025-08-22,MarketMedia,SaaS Subscription,2252.3
+2025-08-24,PowerGrid,Courier Delivery,1943.83
+2025-08-13,StaffPayroll,Office Supplies,2521.79
+2025-08-26,MarketMedia,Raw Materials,3694.78
+2025-08-08,CourierPlus,Courier Delivery,4435.2
+2025-08-30,CourierPlus,Courier Delivery,6460.19
+2025-08-16,SupplierTwo,Raw Materials,1692.35
+2025-08-30,CloudTools,SaaS Subscription,7122.99
+2025-08-19,PowerGrid,Salary Payroll,4480.48
+2025-08-21,CourierPlus,Courier Delivery,5625.55
+2025-08-29,CourierPlus,SaaS Subscription,6440.21
+2025-08-16,CloudTools,Courier Delivery,6259.16
+2025-08-06,PowerGrid,Salary Payroll,4280.7
+2025-08-21,FuelHub,Courier Delivery,715.4
+2025-08-24,PowerGrid,Raw Materials,3663.23
+2025-08-31,PowerGrid,Salary Payroll,3439.55
+2025-08-30,CloudTools,Courier Delivery,5151.33
+2025-08-13,StaffPayroll,Marketing Ads,4474.52
+2025-08-13,StaffPayroll,Salary Payroll,5218.18
+2025-08-30,RentCo,SaaS Subscription,6153.26
+2025-08-24,SupplierTwo,Fuel Transport,480.18
+2025-08-23,FuelHub,Electricity Utilities,4624.96
+2025-08-08,CloudTools,Marketing Ads,5580.3
+2025-08-01,PowerGrid,Office Supplies,3791.75
+2025-08-17,SupplierOne,Raw Materials,5783.06
+2025-08-10,FuelHub,Electricity Utilities,2595.46
+2025-08-17,StaffPayroll,Electricity Utilities,5959.55
+2025-08-08,CourierPlus,Office Supplies,3858.2
+2025-08-31,SupplierOne,SaaS Subscription,4406.96
+2025-08-02,CloudTools,Fuel Transport,5414.64
+2025-08-17,CourierPlus,Salary Payroll,4720.48
+2025-08-13,MarketMedia,Courier Delivery,2554.77
+2025-08-24,StaffPayroll,Courier Delivery,4317.22
+2025-08-14,CourierPlus,Salary Payroll,1762.93
+2025-09-04,SupplierTwo,Raw Materials,3582.38
+2025-09-17,StaffPayroll,Office Supplies,3081.4
+2025-09-08,SupplierTwo,Marketing Ads,5642.25
+2025-09-09,PowerGrid,Rent,2983.16
+2025-09-25,PowerGrid,Rent,5098.88
+2025-09-26,CloudTools,SaaS Subscription,5610.1
+2025-09-21,FuelHub,Courier Delivery,6328.42
+2025-09-03,SupplierTwo,Marketing Ads,4638.54
+2025-09-17,CloudTools,Salary Payroll,3609.23
+2025-09-28,RentCo,Marketing Ads,6031.79
+2025-09-25,RentCo,Marketing Ads,2003.72
+2025-09-22,SupplierTwo,Office Supplies,767.73
+2025-09-17,SupplierTwo,Fuel Transport,7110.58
+2025-09-15,StaffPayroll,Raw Materials,5745.07
+2025-09-04,CourierPlus,Fuel Transport,4529.79
+2025-09-22,FuelHub,Fuel Transport,4852.01
+2025-09-08,CloudTools,Marketing Ads,1288.6
+2025-09-24,MarketMedia,Electricity Utilities,6329.22
+2025-09-26,CloudTools,Courier Delivery,300.0
+2025-09-19,PowerGrid,Salary Payroll,3198.26
+2025-09-18,RentCo,Courier Delivery,3454.85
+2025-09-13,SupplierOne,Salary Payroll,3250.94
+2025-09-14,CloudTools,Electricity Utilities,4078.55
+2025-09-28,SupplierTwo,Fuel Transport,2068.93
+2025-09-16,SupplierOne,Rent,3416.12
+2025-09-23,SupplierTwo,Salary Payroll,2810.64
+2025-09-06,SupplierOne,SaaS Subscription,300.0
+2025-09-03,CloudTools,Rent,300.0
+2025-09-15,CloudTools,Courier Delivery,3713.5
+2025-09-18,MarketMedia,Marketing Ads,2199.88
+2025-09-22,RentCo,Raw Materials,6532.9
+2025-09-26,CourierPlus,Raw Materials,2007.56
+2025-09-28,RentCo,Office Supplies,6020.66
+2025-09-22,RentCo,Office Supplies,980.67
+2025-09-22,CloudTools,Courier Delivery,6853.61
+2025-09-29,RentCo,Rent,7459.33
+2025-09-20,RentCo,Fuel Transport,3011.74
+2025-09-26,CloudTools,SaaS Subscription,1847.27
+2025-09-04,PowerGrid,Electricity Utilities,300.0
+2025-09-21,RentCo,SaaS Subscription,817.52
+2025-09-21,SupplierOne,Marketing Ads,2633.67
+2025-09-11,CourierPlus,Courier Delivery,4442.0
+2025-09-05,CourierPlus,Electricity Utilities,3057.18
+2025-09-11,CourierPlus,Raw Materials,2334.8
+2025-09-02,SupplierOne,Courier Delivery,3773.78
+2025-09-29,RentCo,Salary Payroll,4652.36
+2025-09-21,StaffPayroll,Courier Delivery,3871.71
+2025-09-05,MarketMedia,Salary Payroll,5277.67
+2025-09-17,CourierPlus,Electricity Utilities,3492.89
+2025-09-05,FuelHub,Marketing Ads,3872.29
+2025-09-09,FuelHub,Electricity Utilities,7639.37
+2025-09-01,FuelHub,Fuel Transport,5832.8
+2025-09-23,FuelHub,Salary Payroll,7402.51
+2025-09-01,CourierPlus,Fuel Transport,4664.65
+2025-09-23,PowerGrid,Maintenance,3840.65
+2025-09-12,CloudTools,Electricity Utilities,3766.94
+2025-09-19,MarketMedia,SaaS Subscription,2760.25
+2025-09-11,PowerGrid,Raw Materials,5093.71
+2025-09-26,StaffPayroll,Office Supplies,6213.54
+2025-09-01,MarketMedia,Electricity Utilities,5096.22
+2025-09-24,CourierPlus,Raw Materials,3297.24
+2025-09-19,SupplierTwo,Office Supplies,3450.99
+2025-09-11,SupplierTwo,Courier Delivery,4822.99
+2025-10-03,RentCo,Office Supplies,3139.4
+2025-10-01,SupplierOne,Salary Payroll,8045.32
+2025-10-01,RentCo,Courier Delivery,8138.89
+2025-10-31,RentCo,Rent,6727.8
+2025-10-25,PowerGrid,SaaS Subscription,7921.51
+2025-10-03,SupplierTwo,Rent,6319.26
+2025-10-31,SupplierTwo,Office Supplies,6080.6
+2025-10-09,SupplierOne,Raw Materials,2119.91
+2025-10-04,FuelHub,Electricity Utilities,6858.07
+2025-10-27,CourierPlus,Fuel Transport,9973.59
+2025-10-08,MarketMedia,Salary Payroll,5156.5
+2025-10-10,FuelHub,Courier Delivery,8359.35
+2025-10-23,CourierPlus,Marketing Ads,3470.59
+2025-10-06,StaffPayroll,Fuel Transport,8884.25
+2025-10-13,StaffPayroll,Fuel Transport,4121.07
+2025-10-23,FuelHub,Marketing Ads,3468.79
+2025-10-02,StaffPayroll,SaaS Subscription,6566.66
+2025-10-07,FuelHub,Courier Delivery,8444.19
+2025-10-18,CourierPlus,Courier Delivery,14350.06
+2025-10-04,MarketMedia,Marketing Ads,6429.73
+2025-10-10,SupplierTwo,Maintenance,1163.93
+2025-10-30,MarketMedia,Salary Payroll,3190.35
+2025-10-22,CourierPlus,Office Supplies,7048.62
+2025-10-11,CourierPlus,Salary Payroll,5404.8
+2025-10-25,CourierPlus,Salary Payroll,6186.43
+2025-10-20,SupplierTwo,Rent,5724.07
+2025-10-09,SupplierTwo,Rent,690.64
+2025-10-04,StaffPayroll,Fuel Transport,6437.39
+2025-10-09,SupplierTwo,Salary Payroll,6429.64
+2025-10-12,FuelHub,Office Supplies,3692.55
+2025-10-11,CloudTools,Rent,3018.65
+2025-10-01,MarketMedia,Electricity Utilities,9166.09
+2025-10-11,PowerGrid,Office Supplies,4955.75
+2025-10-16,StaffPayroll,Office Supplies,7599.38
+2025-10-03,MarketMedia,Raw Materials,6650.33
+2025-10-27,FuelHub,Salary Payroll,6545.01
+2025-10-23,MarketMedia,Maintenance,4004.99
+2025-10-10,PowerGrid,Courier Delivery,10638.16
+2025-10-14,PowerGrid,Raw Materials,4261.24
+2025-10-03,PowerGrid,Salary Payroll,5487.7
+2025-10-23,SupplierOne,Raw Materials,3319.2
+2025-10-19,PowerGrid,Fuel Transport,6874.95
+2025-10-31,SupplierOne,Courier Delivery,8852.04
+2025-10-02,StaffPayroll,Courier Delivery,7660.3
+2025-10-27,PowerGrid,Courier Delivery,6581.57
+2025-10-28,SupplierTwo,Maintenance,8460.21
+2025-10-24,MarketMedia,Fuel Transport,3992.0
+2025-10-16,StaffPayroll,Courier Delivery,6198.63
+2025-10-02,MarketMedia,Salary Payroll,4798.13
+2025-11-15,SupplierTwo,Maintenance,17046.76
+2025-11-08,SupplierOne,Rent,9518.8
+2025-11-18,RentCo,Maintenance,9237.85
+2025-11-05,RentCo,SaaS Subscription,9500.13
+2025-11-10,StaffPayroll,SaaS Subscription,7065.53
+2025-11-08,RentCo,Office Supplies,9781.03
+2025-11-12,StaffPayroll,Raw Materials,4783.27
+2025-11-02,SupplierOne,Salary Payroll,6945.13
+2025-11-16,StaffPayroll,SaaS Subscription,11041.78
+2025-11-08,RentCo,Fuel Transport,4286.49
+2025-11-08,StaffPayroll,Maintenance,9550.36
+2025-11-06,CloudTools,Salary Payroll,10839.89
+2025-11-15,CourierPlus,Courier Delivery,4778.51
+2025-11-05,SupplierTwo,Raw Materials,10472.33
+2025-11-10,StaffPayroll,Maintenance,10568.89
+2025-11-15,PowerGrid,Office Supplies,18821.71
+2025-11-18,CloudTools,Office Supplies,6003.84
+2025-11-29,FuelHub,Fuel Transport,4278.97
+2025-11-23,StaffPayroll,Courier Delivery,9559.74
+2025-11-06,StaffPayroll,Maintenance,10105.48
+2025-11-19,CloudTools,Rent,6911.36
+2025-11-02,FuelHub,Salary Payroll,9183.63
+2025-11-14,SupplierOne,Rent,1800.8
+2025-11-29,SupplierOne,Courier Delivery,7851.93
+2025-11-26,SupplierTwo,Fuel Transport,10359.51
+2025-11-12,StaffPayroll,Courier Delivery,4826.66
+2025-11-15,CourierPlus,Fuel Transport,8954.01
+2025-11-08,RentCo,Salary Payroll,7633.23
+2025-11-10,StaffPayroll,Marketing Ads,5266.59
+2025-11-12,CourierPlus,Marketing Ads,7646.12
+2025-11-01,StaffPayroll,Fuel Transport,12347.8
+2025-11-18,CourierPlus,Electricity Utilities,6602.03
+2025-11-28,FuelHub,Raw Materials,6684.11
+2025-11-02,MarketMedia,Office Supplies,11969.22
+2025-11-25,PowerGrid,Courier Delivery,5068.37
+2025-11-03,RentCo,Rent,8349.43
+2025-11-01,PowerGrid,SaaS Subscription,2753.83
+2025-11-22,CloudTools,SaaS Subscription,5434.95
+2025-11-14,CloudTools,Raw Materials,4196.45
+2025-11-26,PowerGrid,Rent,8871.45
+2025-12-07,CloudTools,Raw Materials,10340.44
+2025-12-01,SupplierTwo,Salary Payroll,14533.25
+2025-12-11,RentCo,Fuel Transport,4500.39
+2025-12-16,MarketMedia,Maintenance,5040.6
+2025-12-24,StaffPayroll,Electricity Utilities,13183.24
+2025-12-06,CloudTools,Raw Materials,12087.89
+2025-12-19,StaffPayroll,Marketing Ads,6117.64
+2025-12-03,CloudTools,Raw Materials,8278.75
+2025-12-02,MarketMedia,Office Supplies,4528.51
+2025-12-10,RentCo,Raw Materials,300.0
+2025-12-15,FuelHub,Maintenance,3971.37
+2025-12-25,CloudTools,SaaS Subscription,12630.23
+2025-12-14,SupplierTwo,Marketing Ads,300.0
+2025-12-26,FuelHub,Rent,7742.97
+2025-12-12,FuelHub,Raw Materials,11502.65
+2025-12-09,PowerGrid,Salary Payroll,1435.68
+2025-12-24,SupplierTwo,Marketing Ads,10077.99
+2025-12-30,PowerGrid,Rent,11957.26
+2025-12-13,StaffPayroll,Electricity Utilities,300.0
+2025-12-11,RentCo,Electricity Utilities,6400.21
+2025-12-07,CourierPlus,Courier Delivery,13205.67
+2025-12-05,StaffPayroll,Fuel Transport,9545.52
+2025-12-26,FuelHub,Raw Materials,9874.19
+2025-12-07,SupplierOne,Maintenance,12196.41
+2025-12-12,PowerGrid,Marketing Ads,10193.7
+2025-12-22,CourierPlus,Rent,6858.29
+2025-12-23,MarketMedia,Rent,12031.17
+2025-12-31,MarketMedia,Maintenance,6549.69
+2025-12-26,PowerGrid,Fuel Transport,6615.31
+2025-12-17,MarketMedia,Maintenance,6827.37
+2025-12-08,FuelHub,Raw Materials,6603.85
+2025-12-28,PowerGrid,Courier Delivery,13418.73
+2025-12-16,RentCo,Courier Delivery,11644.12
+2025-12-30,StaffPayroll,Rent,8701.35
+2025-12-15,CloudTools,Salary Payroll,9886.89
+2025-12-24,SupplierOne,Electricity Utilities,17021.84
+2025-12-13,CourierPlus,Fuel Transport,10089.82
+2025-12-14,MarketMedia,Fuel Transport,8532.44
+2025-12-10,FuelHub,Maintenance,10461.22
+2025-12-25,RentCo,Maintenance,9134.99
+2025-12-19,MarketMedia,Courier Delivery,5042.11
+2025-12-04,FuelHub,Electricity Utilities,8359.34
+2025-12-05,PowerGrid,Salary Payroll,8811.05
+2025-12-06,StaffPayroll,Office Supplies,12496.21
+2025-12-02,PowerGrid,Salary Payroll,14138.44
+2025-12-11,SupplierOne,Raw Materials,7767.39
+2025-12-12,CloudTools,Fuel Transport,4783.58
+2025-12-31,FuelHub,Electricity Utilities,14224.63
+2025-12-06,CourierPlus,Fuel Transport,10976.22
+2025-12-07,MarketMedia,Raw Materials,9242.25
+2025-12-24,SupplierOne,Fuel Transport,300.0
+2025-12-17,MarketMedia,SaaS Subscription,13106.43
+2025-12-10,SupplierTwo,SaaS Subscription,14484.24
+2025-12-29,CourierPlus,Office Supplies,10322.31
+2025-12-13,CourierPlus,Office Supplies,14140.87
+2025-12-13,SupplierTwo,Electricity Utilities,5114.34
+2026-01-24,PowerGrid,Salary Payroll,9840.47
+2026-01-07,PowerGrid,Maintenance,8720.19
+2026-01-29,PowerGrid,Raw Materials,7112.41
+2026-01-03,CloudTools,Maintenance,9971.56
+2026-01-02,SupplierTwo,Maintenance,3218.88
+2026-01-23,StaffPayroll,Courier Delivery,13570.45
+2026-01-06,PowerGrid,Office Supplies,13498.16
+2026-01-19,FuelHub,Courier Delivery,10166.31
+2026-01-12,CourierPlus,Office Supplies,2625.76
+2026-01-05,CourierPlus,Marketing Ads,6232.5
+2026-01-26,PowerGrid,SaaS Subscription,9520.53
+2026-01-02,CloudTools,Maintenance,13125.3
+2026-01-11,CloudTools,Marketing Ads,11689.32
+2026-01-23,SupplierOne,Electricity Utilities,6333.01
+2026-01-25,PowerGrid,Salary Payroll,8720.71
+2026-01-09,SupplierOne,Office Supplies,7874.95
+2026-01-11,FuelHub,Rent,2425.48
+2026-01-19,MarketMedia,Rent,15559.29
+2026-01-12,SupplierTwo,SaaS Subscription,7424.96
+2026-01-19,CourierPlus,Raw Materials,300.0
+2026-01-02,FuelHub,Raw Materials,17613.45
+2026-01-17,PowerGrid,Fuel Transport,10847.73
+2026-01-12,RentCo,Salary Payroll,7682.88
+2026-01-12,CourierPlus,Fuel Transport,18884.29
+2026-01-30,StaffPayroll,Salary Payroll,5621.5
+2026-01-11,FuelHub,Maintenance,9243.53
+2026-01-25,CloudTools,Maintenance,2550.62
+2026-01-04,SupplierTwo,Office Supplies,11667.1
+2026-01-06,SupplierTwo,Rent,10703.8
+2026-01-29,CourierPlus,Marketing Ads,5839.55
+2026-01-20,MarketMedia,Electricity Utilities,22533.75
+2026-01-26,PowerGrid,Salary Payroll,8237.45
+2026-01-24,CourierPlus,Office Supplies,7877.88
+2026-01-26,PowerGrid,Maintenance,12903.16
+2026-01-21,PowerGrid,Office Supplies,10794.76
+2026-01-17,CourierPlus,Maintenance,7553.31
+2026-01-28,StaffPayroll,Salary Payroll,4495.73
+2026-01-03,SupplierOne,Fuel Transport,9654.48
+2026-01-01,SupplierTwo,Electricity Utilities,6761.91
+2026-01-18,RentCo,Fuel Transport,16551.7
+2026-01-26,MarketMedia,Fuel Transport,8223.7
+2026-01-20,RentCo,Courier Delivery,11906.79
+2026-01-02,SupplierTwo,Office Supplies,10546.76
+2026-01-26,CloudTools,SaaS Subscription,11364.99
+2026-01-16,CourierPlus,Marketing Ads,18858.48
+2026-01-01,CloudTools,Office Supplies,11391.73
+2026-01-05,StaffPayroll,Fuel Transport,9842.6
+2026-01-01,CourierPlus,Fuel Transport,14335.86
